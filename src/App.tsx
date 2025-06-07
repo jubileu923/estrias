@@ -348,7 +348,7 @@ function App() {
   className="group bg-gradient-to-r from-emerald-500 via-teal-600 to-blue-600 hover:from-emerald-600 hover:via-teal-700 hover:to-blue-700 text-white font-bold text-xl px-12 py-8 rounded-3xl shadow-2xl hover:shadow-3xl transform hover:-translate-y-2 transition-all duration-300 mb-8 animate-pulse hover:animate-none w-full max-w-4xl block text-center"
 >
   <span className="flex items-center justify-center gap-3 flex-wrap">
-    ✅ QUERO AS RECEITAS SECRETAS DO MÉTODO DERMORESET™ POR APENAS R$47,00!
+    ✅ QUERO AS RECEITAS SECRETAS DO MÉTODO DERMORESET™ POR APENAS R$39,00!
     <Sparkles className="w-6 h-6 group-hover:rotate-12 transition-transform duration-300" />
   </span>
 </a>
